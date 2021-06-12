@@ -1,10 +1,10 @@
 # COOL-CODING-RESOURCES
-Nothing Much Just a collection of coding resources
+ Just a collection of coding resources
 
 
 PYTHON RESOURCES:
 
-So if you have zero knowledge about python these might help you :)
+So if you have zero knowledge about python it may help you :)
 
 INTRODUCTORY LEVEL :
 
@@ -65,7 +65,7 @@ CHEATSHEET :
 https://t.me/pythontg_archive/3
 
 
-SO THIS WAS ALL ABOUT PYTHON RESOURCES
+SO IT WAS ALL ABOUT PYTHON RESOURCES
 
-FOR MORE RESOURCES ON OTHER LANGUAGES  .... STAY TUNED
+FOR MORE RESOURCES ON OTHER LANGUAGES  .... STAY TUNNED
 
