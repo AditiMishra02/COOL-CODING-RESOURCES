@@ -60,6 +60,10 @@ https://www.udemy.com/share/1033F2AEcac11bQ3gF/
 
 https://www.udemy.com/share/102CipAEcac11bQ3gF/
 
+CHEATSHEET :
+
+https://t.me/pythontg_archive/3
+
 
 SO THIS WAS ALL ABOUT PYTHON RESOURCES
 
